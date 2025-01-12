@@ -23,5 +23,4 @@
 - He/Him
 
 ## ⚡ Fun fact:
-## ⚡ Fun fact:
 - I love turning data into insights and building user-friendly websites that make digital experiences both functional and enjoyable!
