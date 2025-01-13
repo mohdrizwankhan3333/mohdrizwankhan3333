@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @mohdrizwankhan3333
+# 👋 Hi, I’m Mohd Rizwan Khan
 
 ## 👀 I’m interested in:
 - Data Science and Analytics 📊
