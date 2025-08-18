@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:09203F&height=240&section=header&text=👋%20Hi,%20I'm%20Mohd%20Rizwan%20Khan&fontSize=42&fontColor=ffffff&animation=wave&fontAlignY=35&fontAlign=50&desc=An%20Expert%20Data%20Analyst%20|%20Computer%20Engineer&descAlignY=55&descAlign=50)
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=💻+Data+Analyst;🎓+Computer+Engineering;📊+Turning+Data+into+Decisions;🚀+Always+Learning+and+Building)](https://git.io/typing-svg)
 
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-09203F?style=for-the-badge&logo=google-chrome&logoColor=00C9FF)](https://yourportfolio.com)  
+
 
 ## 🚀 About Me  
 I bridge engineering fundamentals with data analytics to create **insightful, business-ready solutions**.  
