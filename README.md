@@ -2,11 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=💻+Data+Analyst;🎓+Computer+Engineering;📊+Turning+Data+into+Decisions;🚀+Always+Learning+and+Building)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-09203F?style=for-the-badge&logo=google-chrome&logoColor=00C9FF)](https://yourportfolio.com)
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-09203F?style=for-the-badge&logo=google-chrome&logoColor=00C9FF)](https://yourportfolio.com)  
-
+---
 
 ## 🚀 About Me  
+
 I bridge engineering fundamentals with data analytics to create **insightful, business-ready solutions**.  
 Instead of just learning tools, I’ve invested in applying them — building real projects, solving case studies, and practicing hands-on problem solving.  
 
@@ -22,21 +23,21 @@ I focus on **end-to-end analytics**: cleaning and transforming raw data → unco
 
 ## 🛠 Core Skillset  
 
-- **Programming & Querying** → Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-- **Databases** → MySQL, PostgreSQL  
-- **Visualization & BI** → Power BI, Tableau, Excel  
-- **Data Handling** → Cleaning, Wrangling, ETL fundamentals  
-- **Analytics & Statistics** → Hypothesis Testing, Trend Analysis, Business Metrics  
-- **Workflow Tools** → Git/GitHub, Jupyter Notebook  
+- **Programming & Querying:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Databases:** MySQL, PostgreSQL  
+- **Visualization & BI:** Power BI, Tableau, Excel  
+- **Data Handling:** Cleaning, Wrangling, ETL fundamentals  
+- **Analytics & Statistics:** Hypothesis Testing, Trend Analysis, Business Metrics  
+- **Workflow Tools:** Git/GitHub, Jupyter Notebook  
 
 ---
 
 ## 📂 Featured Work  
 
-- **SQL Case Studies** → 350+ queries solving complex business scenarios  
-- **Python Analytics** → Projects on EDA, automation pipelines, and visualization frameworks  
-- **Dashboards** → 20+ BI solutions (Power BI & Excel) designed for KPIs, trends, and decision support  
-- **Data Storytelling** → Reports that don’t just show numbers, but highlight *“what’s next?”*  
+- **SQL Case Studies:** 350+ queries solving complex business scenarios  
+- **Python Analytics:** Projects on EDA, automation pipelines, and visualization frameworks  
+- **Dashboards:** 20+ BI solutions (Power BI & Excel) designed for KPIs, trends, and decision support  
+- **Data Storytelling:** Reports that don’t just show numbers, but highlight *“what’s next?”*  
 
 ---
 
@@ -52,7 +53,7 @@ I focus on **end-to-end analytics**: cleaning and transforming raw data → unco
 ## 🤝 Let’s Connect  
 
 - [GitHub](https://github.com/mohdrizwankhan3333)  
-- [LinkedIn](https://www.linkedin.com/in/mohdrizwankhan01/)    
+- [LinkedIn](https://www.linkedin.com/in/mohdrizwankhan01/)  
 - 📫 **Email:** rizwanm2648@gmail.com  
 - 📱 **Mobile:** +91-9045386853  
 
