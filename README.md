@@ -49,13 +49,13 @@ I focus on **end-to-end analytics**: cleaning and transforming raw data → unco
 
 ---
 
-
 ## 🤝 Let’s Connect  
 
 - [GitHub](https://github.com/mohdrizwankhan3333)  
-- [LinkedIn](https://www.linkedin.com/in/mohdrizwankhan01/)  
-- 📫 **Email:** rizwanm2648@gmail.com@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/mohdrizwankhan01/)    
+- 📫 **Email:** rizwanm2648@gmail.com  
+- 📱 **Mobile:** +91-9045386853  
 
 ---
 
-⚡ *Data isn’t just numbers — it’s stories, strategies, and smarter decisions. That’s what I love building.*  
+⚡ *Data isn’t just numbers — it’s stories, strategies, and smarter decisions. That’s what I love building.*
