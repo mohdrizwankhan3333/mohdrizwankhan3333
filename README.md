@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 About Me  
+I bring **6 months of Data Analytics internship experience**, bridging engineering fundamentals with analytics to create business-ready insights.  
+My focus is not just learning tools, but applying them through real projects, case studies, and hands-on problem solving.  
 
-I bridge engineering fundamentals with data analytics to create **insightful, business-ready solutions**.  
-Instead of just learning tools, I’ve invested in applying them — building real projects, solving case studies, and practicing hands-on problem solving.  
 
 **Track Record so far:**  
 - 🔹 **350+ SQL queries** — advanced joins, window functions, subqueries, and optimizations  
