@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=💻+Data+Analyst;🎓+Computer+Engineering;📊+Turning+Data+into+Decisions;🚀+Always+Learning+and+Building)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-09203F?style=for-the-badge&logo=google-chrome&logoColor=00C9FF)]([https://yourportfolio.com](https://mohdrizwankhan3333.github.io/Portfolio-Web/))
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-09203F?style=for-the-badge&logo=google-chrome&logoColor=00C9FF)](https://mohdrizwankhan3333.github.io/Portfolio-Web/)
 
 ---
 
